@@ -2,6 +2,8 @@
 
 Dashboard interativo desenvolvido em Power BI para acompanhar e analisar a operação logística de uma empresa que atende grandes varejistas. A partir de um arquivo CSV com informações logísticas, o painel consolida em uma única tela indicadores de faturamento, volume de itens, pontualidade das entregas, desempenho dos motoristas, devoluções e evolução das compras ao longo do tempo.
 
+![Imagem do dashboard](https://github.com/Jhon-Mota/Power_BI_KPIs_logistica/blob/main/KPI_Logistica.png)
+
 📖 Sobre o projeto
 
 Em operações logísticas, acompanhar apenas o faturamento não é suficiente: é preciso entender quem são os clientes mais relevantes, quantos itens estão sendo movimentados, se as entregas estão chegando no prazo, como cada motorista está performando e por que os produtos estão sendo devolvidos.
